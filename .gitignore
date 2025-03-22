@@ -1,0 +1,12 @@
+data/Augmented IQ-OTHNCCD lung cancer dataset/
+data/processed/
+echo "data/processed/" >> .gitignore
+env/
+*.pyc
+__pycache__/
+*.ipynb_checkpoints
+.DS_Store
+
+
+env/
+env/ 130 ↵
