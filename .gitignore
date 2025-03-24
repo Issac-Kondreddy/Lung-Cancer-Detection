@@ -1,5 +1,6 @@
 data/Augmented IQ-OTHNCCD lung cancer dataset/
 data/processed/
+data/processed_images_by_filter/
 echo "data/processed/" >> .gitignore
 env/
 *.pyc
